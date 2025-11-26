@@ -42,7 +42,6 @@ The project is suitable for academic, training, and placement purposes.
 - Primary/Foreign Key Constraints
 
 ---
-
 ## 👨‍💻 Developed By
 Ayush Jadhav  
 B.Tech – AIML  
